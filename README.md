@@ -1,5 +1,7 @@
 # **oneConfig**
 
+
+
 ---
 
 
@@ -12,9 +14,13 @@
 
 大概就是，把俺的windows文件分类好，最好一键配置的那种（）
 
-毕竟有序就是好，参考目录如下：
 
 
+---
+
+
+
+## 二、参照
 
 > 1. usr
 >
@@ -35,6 +41,9 @@
 >    + Typora
 >    + Unity&Unity Hub
 >    + WeChat
+>    + Huorong
+>    + HYJiang
+>    + JianGuoYun
 >    + 【数据删除】
 >    + ……
 >
@@ -45,7 +54,7 @@
 > 3. backup
 >
 >    + 未安装的东西和安装程式
->    + password backup
+>    + Password Backup
 >    + beautiful pics🤤
 >
 > 4. proj
@@ -69,9 +78,10 @@
 >    + TRPG
 >    + Mahjong
 >
-> 5. tmp
+> 5. <my scholl> and <my company>
+>
+> 6. tmp
 >
 >    存临时文件，including网页文件下载文件etc
 >
-> 
 
