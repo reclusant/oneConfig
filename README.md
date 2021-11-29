@@ -26,25 +26,60 @@
 >
 >    like Linux，programs/gamesのinstall location
 >
->    + Sai
->    + NeteaseCloudMusic
->    + FL Studio
->    + Foxit Software
->    + Genshin Impact（
->    + kdenlive/PR
->    + MuMu（
->    + OBS
->    + PotPlayer
->    + QQ
->    + steam
->    + Telegram
->    + Typora
->    + Unity&Unity Hub
->    + WeChat
->    + Huorong
->    + HYJiang
->    + JianGuoYun
->    + 【数据删除】
+>    * [HYJiang](http://www.huochaipro.com/)
+>    * [QQ](https://im.qq.com/index)
+>    * [WeChat](https://weixin.qq.com/)
+>    * [Chrome](https://www.google.cn/chrome/)
+>    * [NeteaseCloudMusic](https://music.163.com/#/download)
+>    * [火绒](https://www.huorong.cn/)
+>    * [Foxit Software](https://www.foxitsoftware.cn)
+>    * [Kdenlive](https://kdenlive.org/en/)
+>    * [坚果云](https://www.jianguoyun.com/)
+>
+>    + [Sai](http://www.systemax.jp/ja/sai/)
+>
+>      另某链见[sai吧](https://tieba.baidu.com/f?ie=utf-8&kw=sai)右下；pan
+>
+>    + [FL Studio](https://flstudiochina.mairuan.com/)
+>
+>      pan
+>
+>    + [Genshin Impact](https://ys.mihoyo.com)
+>
+>    + [OBS](https://obsproject.com/zh-cn/download)
+>
+>    + [MuMu](https://mumu.163.com/)
+>
+>    + [Unity](https://unity.cn/releases)
+>
+>    + 【[数据删除](https://www.sockscap64.com/sstap-享受游戏-使用sstap/)】
+>
+>    + 【[数据删除](https://github.com/qingshuisiyuan/electron-ssr-backup)】
+>
+>      pan
+>
+>    + [Potplayer](https://potplayer.daum.net/?lang=zh_CN)
+>
+>      墙，小众故无解；pri：pan
+>
+>    + [Steam](https://store.steampowered.com/)
+>
+>      社区墙见[steamcommunity](https://www.dogfight360.com/blog/686/)
+>
+>    + [Telegram](https://telegram.org/)  or  [Telegram中文](https://www.teleglcn.com/)
+>
+>      墙，目前未解
+>
+>    + [Typora](https://www.typora.io/)
+>
+>      近日开始收费，pan不确定可行，左转[Typecho](http://typecho.org/)
+>
+>    + [VSCode](https://code.visualstudio.com/)
+>
+>      需dotnet、mingw-w64等环境，建议左转[VSCommunity](https://visualstudio.microsoft.com/zh-hant/vs/community/)
+>
+>    + 【[数据删除](https://www.wisecleaner.com/wise-folder-hider-free.html)】
+>
 >    + ……
 >
 > 2. license
