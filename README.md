@@ -32,6 +32,7 @@
 >    * [Chrome](https://www.google.cn/chrome/)
 >    * [NeteaseCloudMusic](https://music.163.com/#/download)
 >    * [火绒](https://www.huorong.cn/)
+>    * [WPS](https://www.wps.cn/)
 >    * [Foxit Software](https://www.foxitsoftware.cn)
 >    * [Kdenlive](https://kdenlive.org/en/)
 >    * [坚果云](https://www.jianguoyun.com/)
@@ -40,15 +41,19 @@
 >
 >      另某链见[sai吧](https://tieba.baidu.com/f?ie=utf-8&kw=sai)右下；pan
 >
+>    + DesignDoll
+>
+>      pan
+>
 >    + [FL Studio](https://flstudiochina.mairuan.com/)
 >
 >      pan
 >
->    + [Genshin Impact](https://ys.mihoyo.com)
->
 >    + [OBS](https://obsproject.com/zh-cn/download)
 >
 >    + [MuMu](https://mumu.163.com/)
+>
+>    + [Genshin Impact](https://ys.mihoyo.com)
 >
 >    + [Unity](https://unity.cn/releases)
 >
@@ -60,7 +65,7 @@
 >
 >    + [Potplayer](https://potplayer.daum.net/?lang=zh_CN)
 >
->      墙，小众故无解；pri：pan
+>      墙，小众故无解；pan
 >
 >    + [Steam](https://store.steampowered.com/)
 >
