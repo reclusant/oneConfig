@@ -27,14 +27,25 @@
 >    like Linux，programs/gamesのinstall location
 >
 >    * [HYJiang](http://www.huochaipro.com/)
+>
 >    * [QQ](https://im.qq.com/index)
+>
 >    * [WeChat](https://weixin.qq.com/)
+>
 >    * [Chrome](https://www.google.cn/chrome/)
+>
+>      参考[win10上将chrome安装到D盘](https://blog.csdn.net/MoneStar/article/details/114168808)和[mklink命令](https://www.cnblogs.com/life-of-coding/p/10871831.html)
+>
 >    * [NeteaseCloudMusic](https://music.163.com/#/download)
+>
 >    * [火绒](https://www.huorong.cn/)
+>
 >    * [WPS](https://www.wps.cn/)
+>
 >    * [Foxit Software](https://www.foxitsoftware.cn)
+>
 >    * [Kdenlive](https://kdenlive.org/en/)
+>
 >    * [坚果云](https://www.jianguoyun.com/)
 >
 >    + [Sai](http://www.systemax.jp/ja/sai/)
