@@ -34,6 +34,8 @@
 >
 >    * [HYJiang](http://www.huochaipro.com/)
 >
+>      皮肤[鳩羽つぐ.hyj](individ/鳩羽つぐ.hyj)，或pan/oneConfig
+>
 >    * [搜狗输入法](https://pinyin.sogou.com/)
 >
 >    * [QQ](https://im.qq.com/index)
@@ -46,11 +48,17 @@
 >
 >    * [NeteaseCloudMusic](https://music.163.com/#/download)
 >
->    * [百度网盘 客户端下载](https://pan.baidu.com/download)
+>    * [👍阿里云盘](https://www.aliyundrive.com/)
+>
+>    * [👎百度网盘](https://pan.baidu.com/download)
+>
+>      每日一怼，宏彦获水
 >
 >    * [火绒](https://www.huorong.cn/)
 >
 >    * [🖱️ Windows右键菜单管理ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)
+>
+>    * [Bandizip](https://cn.bandisoft.com/bandizip/)，或pan/oneConfig
 >
 >    * [WPS](https://www.wps.cn/)
 >
@@ -58,13 +66,9 @@
 >
 >    * [坚果云](https://www.jianguoyun.com/)
 >
->    + [Sai](http://www.systemax.jp/ja/sai/)
+>    + [Sai](http://www.systemax.jp/ja/sai/)，另某链见[sai吧](https://tieba.baidu.com/f?ie=utf-8&kw=sai)右下；pan/oneConfig
 >
->      另某链见[sai吧](https://tieba.baidu.com/f?ie=utf-8&kw=sai)右下；pan/Config
->
->    + [FL Studio](https://flstudiochina.mairuan.com/)
->
->      pan&weiyun
+>    + [FL Studio](https://flstudiochina.mairuan.com/)，pan&weiyun&aDrive
 >
 >    + [OBS](https://obsproject.com/zh-cn/download)
 >
@@ -72,11 +76,13 @@
 >
 >    + [Unity](https://unity.cn/releases)
 >
->    + [VSCommunity](https://visualstudio.microsoft.com/zh-hant/vs/community/)
->
 >    + 【[数据删除](https://www.sockscap64.com/sstap-享受游戏-使用sstap/)】
 >
 >    + 【[数据删除](https://github.com/qingshuisiyuan/electron-ssr-backup)】
+>
+>      pan/oneConfig，订阅同
+>
+>    + [clash](https://github.com/Dreamacro/clash)
 >
 >      pan/oneConfig，订阅同
 >
@@ -96,7 +102,7 @@
 >
 >    + [VSCode](https://code.visualstudio.com/)
 >
->      换中文，拓展栏搜索language
+>      * 换中文，拓展栏搜索language
 >
 >      * C#需要[.NETCore SDK](https://dotnet.microsoft.com/download)和C#、C#Extension拓展
 >    * C/C++需要[MinGW-w64](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)和C/C++拓展
@@ -107,9 +113,15 @@
 >
 >    + ……
 >
->    选用：
+>    可选：
+>
+>    * FlashPlayer
+>
+>      [见这个知乎回答](https://www.zhihu.com/question/485233437/answer/2107596058)或者pan/oneConfig
 >
 >    * [Typecho](http://typecho.org/)
+>
+>    * [Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
 >
 >    * [DesignDolll](https://terawell.net/terawell/)
 >
@@ -126,6 +138,8 @@
 >    * [Typora](https://www.typora.io/)
 >
 >      近日开始收费，pan不保证可行，右转VSCode
+>
+>    * [VSCommunity](https://visualstudio.microsoft.com/zh-hant/vs/community/)
 >
 >    * ……
 >
@@ -159,7 +173,7 @@
 >
 >      * Windows-7-Games-For-Windows-8-and-10-Multilanguage-x86-x64
 >
->        pan/Games
+>        来源未知，见pan/Games
 >
 >      * steamCommunity
 >
@@ -171,7 +185,7 @@
 >
 >      * HELLTAKER汉化2
 >
->        来源不确定，见pan/Games
+>        来源未知，见pan/Games
 >
 >      * 空洞骑士大地图
 >
@@ -179,25 +193,15 @@
 >
 >      * ……
 >
->        
->
 >    + Arknights Proj
 >
->    + NPP2
+>    + [NPP2](https://github.com/Phi-Project-Design-Team)
 >
->      存于Github
+>    + [oneConfig](https://github.com/reclusant/oneConfig)
 >
->    + oneConfig
+>    + [PushBox2.15](https://github.com/reclusant/reclusant.github.io/blob/master/works/PushBox2.15.zip)
 >
->      存于Github
->
->    + PushBox
->
->      存于Blog
->
->    + reclusant.github.io
->
->      存于Github
+>    + [reclusant.github.io](https://github.com/reclusant/reclusant.github.io)
 >
 >    + Unity Proj
 >
@@ -207,13 +211,15 @@
 >
 >    + TRPG
 >
->      pan/COC
+>      pan/COC & aDrive
 >
 >    + Mahjong
 >
+>      aDrive
+>
 > 4. #my school and #my company
 >
->    目前存于tencent cloud
+>    目前存于weiyun
 >
 > 5. tmp
 >
@@ -224,19 +230,14 @@
 
 个人文件储存
 
-需要重点备份储存的文件包括
+| Name                    | Location                                                     |
+| ----------------------- | ------------------------------------------------------------ |
+| Rves                    | Upan & aDrive & [github](https://github.com/reclusant/Rves)，old in NutStore |
+| ReCreator               | aDrive & [github](https://github.com/reclusant/Rves)         |
+| #school & #company file | weiyun & aDrive                                              |
+| Teacher                 | weiyun & aDrive                                              |
+| Arknights Proj          | aDrive                                                       |
+| installer/school work   | aDrive                                                       |
 
-* Rves
 
-* ReCreator
-
-* #school & #company file
-
-  存于tencent cloud
-
-* Teacher
-
-  存于tencent cloud
-
-* Arknights Proj
 
