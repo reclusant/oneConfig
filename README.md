@@ -1,3 +1,13 @@
+
+
+<p align="center">
+  <a>
+    <img src="img/真麻烦.jpg" width="500" height="400" alt="oneConfig">
+  </a>
+</p>
+
+
+
 # **oneConfig**
 
 
@@ -7,10 +17,6 @@
 
 
 ## 一、简介
-
-
-
-![不要裂开](img/真麻烦.jpg)
 
 
 
