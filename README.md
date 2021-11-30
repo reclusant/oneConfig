@@ -131,9 +131,11 @@
 >    + TRPG
 >    + Mahjong
 >
-> 5. <my scholl> and <my company>
+> 4. <my scholl> and <my company>
 >
-> 6. tmp
+>    目前存于tencent cloud
+>
+> 5. tmp
 >
 >    存临时文件，including网页文件下载文件etc
 >
