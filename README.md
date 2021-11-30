@@ -219,7 +219,7 @@
 >
 > 4. #my school and #my company
 >
->    目前存于weiyun
+>    目前存于weiyun & aDrive
 >
 > 5. tmp
 >
@@ -238,6 +238,8 @@
 | Teacher                 | weiyun & aDrive                                              |
 | Arknights Proj          | aDrive                                                       |
 | installer/school work   | aDrive                                                       |
+| license                 | aDrive                                                       |
+| zPasswordBackup         | aDrive & NutStore & pan/oneConfig                            |
 
 
 
