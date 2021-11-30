@@ -40,6 +40,8 @@
 >
 >    * [火绒](https://www.huorong.cn/)
 >
+>    * [🖱️ Windows右键菜单管理](https://github.com/BluePointLilac/ContextMenuManager)
+>
 >    * [WPS](https://www.wps.cn/)
 >
 >    * [Foxit Software](https://www.foxitsoftware.cn)
@@ -63,6 +65,8 @@
 >    + [OBS](https://obsproject.com/zh-cn/download)
 >
 >    + [MuMu](https://mumu.163.com/)
+>
+>    + [Locale-Emulator](https://github.com/xupefei/Locale-Emulator)
 >
 >    + [Genshin Impact](https://ys.mihoyo.com)
 >
@@ -98,13 +102,11 @@
 >
 >    + ……
 >
-> 2. license
+> 2. backup
 >
->    key file和old Staff也可以屯这儿
+>    + Installers
+>    + license
 >
-> 3. backup
->
->    + 未安装的东西和安装程式
 >    + Password Backup
 >    + beautiful pics🤤
 >
