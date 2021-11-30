@@ -84,6 +84,8 @@
 >
 >    + [Unity](https://unity.cn/releases)
 >
+>    + [VSCommunity](https://visualstudio.microsoft.com/zh-hant/vs/community/)
+>
 >    + 【[数据删除](https://www.sockscap64.com/sstap-享受游戏-使用sstap/)】
 >
 >    + 【[数据删除](https://github.com/qingshuisiyuan/electron-ssr-backup)】
@@ -104,11 +106,21 @@
 >
 >    + [Typora](https://www.typora.io/)
 >
->      近日开始收费，pan不确定可行，左转[Typecho](http://typecho.org/)
+>      近日开始收费，pan不保证可行，也许用VSCode也行
+>
+>    + [Typecho](http://typecho.org/)
 >
 >    + [VSCode](https://code.visualstudio.com/)
 >
->      需dotnet、mingw-w64等环境，建议左转[VSCommunity](https://visualstudio.microsoft.com/zh-hant/vs/community/)
+>      换中文，拓展栏搜索language
+>
+>      * C#需要[.NETCore SDK](https://dotnet.microsoft.com/download)和C#、C#Extension拓展
+>
+>      * C/C++需要[MinGW-w64](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)和C/C++拓展
+>
+>      * Markdown见知乎教程[使用vscode开始Markdown写作之旅](https://zhuanlan.zhihu.com/p/56943330)
+>
+>      * html加一个叫open in browser的拓展
 >
 >    + 【[数据删除](https://www.wisecleaner.com/wise-folder-hider-free.html)】
 >
