@@ -32,119 +32,55 @@
 >
 >    必备：
 >
->    * [HYJiang](http://www.huochaipro.com/)
->
->      皮肤[鳩羽つぐ.hyj](individ/鳩羽つぐ.hyj)，或pan/oneConfig
->
->    * [搜狗输入法](https://pinyin.sogou.com/)
->
->    * [QQ](https://im.qq.com/index)
->
->    * [WeChat](https://weixin.qq.com/)
->
->    * [Chrome](https://www.google.cn/chrome/)
->
->      参考[win10上将chrome安装到D盘](https://blog.csdn.net/MoneStar/article/details/114168808)和[mklink命令](https://www.cnblogs.com/life-of-coding/p/10871831.html)
->
->    * [NeteaseCloudMusic](https://music.163.com/#/download)
->
->    * [👍阿里云盘](https://www.aliyundrive.com/)
->
->    * [👎百度网盘](https://pan.baidu.com/download)
->
->      每日一怼，宏彦获水
->
->    * [火绒](https://www.huorong.cn/)
->
->    * [GitHub Desktop](https://desktop.github.com/)
->
->    * [🖱️ Windows右键菜单管理ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)
->
->    * [Bandizip](https://cn.bandisoft.com/bandizip/)，或pan/oneConfig
->
->      安装到D盘
->
->    * [WPS](https://www.wps.cn/)
->
->    * [Kdenlive](https://kdenlive.org/en/)
->
->    * [坚果云](https://www.jianguoyun.com/)
->
->    + [Sai](http://www.systemax.jp/ja/sai/)，另某链见[sai吧](https://tieba.baidu.com/f?ie=utf-8&kw=sai)右下；pan/oneConfig
->
->    + [OBS](https://obsproject.com/zh-cn/download)
->
->    + [MuMu](https://mumu.163.com/)
->
->    + [Unity](https://unity.cn/releases)
->
->    + 【[数据删除](https://www.sockscap64.com/sstap-享受游戏-使用sstap/)】
->
->    + 【[数据删除](https://github.com/qingshuisiyuan/electron-ssr-backup)】
->
->      pan/oneConfig，订阅同
->
->    + [clash](https://github.com/Dreamacro/clash)
->
->      pan/oneConfig，订阅同
->
->    + [Potplayer](https://potplayer.daum.net/?lang=zh_CN)
->
->      墙，小众故无解；pan/oneConfig
->
->    + [WinSCP](https://winscp.net/eng/docs/lang:chs)
->
->    + [Steam](https://store.steampowered.com/)
->
->      社区墙见[steamcommunity](https://www.dogfight360.com/blog/686/)和pan/oneConfig
->
->    + [Telegram](https://telegram.org/)  or  [Telegram中文](https://www.teleglcn.com/)
->
->      墙，目前未解
->
->    * [VSCode](https://code.visualstudio.com/)
->
->       * 换中文，拓展栏搜索language
->
->       * C#需要[.NETCore SDK](https://dotnet.microsoft.com/download)和C#、C#Extension拓展
->       * C/C++需要[MinGW-w64](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)和C/C++拓展
->       * Markdown见知乎教程[使用vscode开始Markdown写作之旅](https://zhuanlan.zhihu.com/p/56943330)
->       * html加open in browser拓展
->       * 【[数据删除](https://www.wisecleaner.com/wise-folder-hider-free.html)】
->       * ……
->
+>   | Name | Note |
+>   | --- | --- |
+>   | [HYJiang](http://www.huochaipro.com/) | 皮肤[鳩羽つぐ.hyj](individ/鳩羽つぐ.hyj)，或pan/oneConfig |
+>   | [搜狗输入法](https://pinyin.sogou.com/) |[QQ](https://im.qq.com/index)|
+>   | [WeChat](https://weixin.qq.com/)||
+>   | [Chrome](https://www.google.cn/chrome/)| 参考[win10上将chrome安装到D盘](https://blog.csdn.net/MoneStar/article/details/114168808)和[mklink命令](https://www.cnblogs.com/life-of-coding/p/10871831.html) |
+>   | [NeteaseCloudMusic](https://music.163.com/#/download)||
+>   | [👍阿里云盘](https://www.aliyundrive.com/)||
+>   | [👎百度网盘](https://pan.baidu.com/download)|每日一怼，宏彦获水|
+>   | [火绒](https://www.huorong.cn/)||
+>   | [GitHub Desktop](https://desktop.github.com/)||
+>   | [🖱️ Windows右键菜单管理ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)||
+>   | [Bandizip](https://cn.bandisoft.com/bandizip/)，或pan/oneConfig|安装到D盘|
+>   | [WPS](https://www.wps.cn/)||
+>   | [Kdenlive](https://kdenlive.org/en/)||
+>   | [坚果云](https://www.jianguoyun.com/)||
+>   | [Sai](http://www.systemax.jp/ja/sai/)|另某链见[sai吧](https://tieba.baidu.com/f?ie=utf-8&kw=sai)右下；pan/oneConfig|
+>   | [OBS](https://obsproject.com/zh-cn/download)||
+>   |[MuMu](https://mumu.163.com/)||
+>   |[Unity](https://unity.cn/releases)||
+>   |【[数据删除](https://www.sockscap64.com/sstap-享受游戏-使用sstap/)】||
+>   |【[数据删除](https://github.com/qingshuisiyuan/electron-ssr-backup)】|pan/oneConfig，订阅同|
+>   |[clash](https://github.com/Dreamacro/clash)|pan/oneConfig，订阅同|
+>   |[Potplayer](https://potplayer.daum.net/?lang=zh_CN)|墙，小众故无解；pan/oneConfig|
+>   |[WinSCP](https://winscp.net/eng/docs/lang:chs)||
+>   |[Steam](https://store.steampowered.com/)|社区墙见[steamcommunity](https://www.dogfight360.com/blog/686/)和pan/oneConfig|
+>   |[Telegram](https://telegram.org/)  or  [Telegram中文](https://www.teleglcn.com/)|墙，目前未解|
+>   |[VSCode](https://code.visualstudio.com/)|换中文，拓展栏搜索language|
+>   ||C#需要[.NETCore SDK](https://dotnet.microsoft.com/download)和C#、C#Extension拓展|
+>   ||C/C++需要[MinGW-w64](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)和C/C++拓展|
+>   ||Markdown见知乎教程[使用vscode开始Markdown写作之旅](https://zhuanlan.zhihu.com/p/56943330)|
+>   ||html加open in browser拓展|
+>   |【[数据删除](https://www.wisecleaner.com/wise-folder-hider-free.html)】||
+> 
 >    可选：
+>   |Name|Note|
+>   |---|---|
+>   |FlashPlayer|[见知乎回答](https://www.zhihu.com/question/485233437/answer/2107596058)或者pan/oneConfig|
+>   |[Typecho](http://typecho.org/)||
+>   |[Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)||
+>   |[DesignDolll](https://terawell.net/terawell/)|墙，pan/oneConfig|
+>   |[Locale-Emulator](https://github.com/xupefei/Locale-Emulator)||
+>   |[Foxit Software](https://www.foxitsoftware.cn)||
+>   |[OriginPro](https://my.originlab.com/forum/topic.asp?TOPIC_ID=22328)|crack见pan/oneConfig|
+>   |[Typora](https://www.typora.io/)|近日开始收费，pan不保证可行，右转VSCode|
+>   |[VSCommunity](https://visualstudio.microsoft.com/zh-hant/vs/community/)||
+>   |[FL Studio](https://flstudiochina.mairuan.com/)|pan&weiyun&aDrive；汉化版+crack见pan/oneConfig|
 >
->   * FlashPlayer
->
->     [见这个知乎回答](https://www.zhihu.com/question/485233437/answer/2107596058)或者pan/oneConfig
->
->   * [Typecho](http://typecho.org/)
->
->   * [Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
->
->   * [DesignDolll](https://terawell.net/terawell/)
->
->     墙，pan/oneConfig
->
->   * [Locale-Emulator](https://github.com/xupefei/Locale-Emulator)
->
->   * [Foxit Software](https://www.foxitsoftware.cn)
->
->   * [OriginPro](https://my.originlab.com/forum/topic.asp?TOPIC_ID=22328)
->
->     crack见pan/oneConfig
->
->   * [Typora](https://www.typora.io/)
->
->     近日开始收费，pan不保证可行，右转VSCode
->
->   * [VSCommunity](https://visualstudio.microsoft.com/zh-hant/vs/community/)
->
->   * [FL Studio](https://flstudiochina.mairuan.com/)，pan&weiyun&aDrive，汉化版+crack见pan/oneConfig
->
->   * ……
->
+>      
 > 2. backup
 >
 >    + Installers
