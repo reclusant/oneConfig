@@ -60,6 +60,8 @@
 >
 >    * [Bandizip](https://cn.bandisoft.com/bandizip/)，或pan/oneConfig
 >
+>      安装到D盘
+>
 >    * [WPS](https://www.wps.cn/)
 >
 >    * [Kdenlive](https://kdenlive.org/en/)
@@ -101,9 +103,9 @@
 >    + [VSCode](https://code.visualstudio.com/)
 >
 >      * 换中文，拓展栏搜索language
->
+>    
 >      * C#需要[.NETCore SDK](https://dotnet.microsoft.com/download)和C#、C#Extension拓展
->* C/C++需要[MinGW-w64](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)和C/C++拓展
+> * C/C++需要[MinGW-w64](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)和C/C++拓展
 >      * Markdown见知乎教程[使用vscode开始Markdown写作之旅](https://zhuanlan.zhihu.com/p/56943330)
 >    * html加open in browser拓展
 >      
@@ -147,9 +149,10 @@
 >
 >    + Installers
 >    + license
->
 >    + zPasswordBackup
 >    + beautiful pics🤤 on aDrive
+>
+>    另，环境变量见aDrive
 >
 > 3. proj
 >
