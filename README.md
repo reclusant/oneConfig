@@ -104,33 +104,15 @@
 >      
 >    + Game Pulgins
 >
->      * [Genshin-wish-export](https://github.com/biuuu/genshin-wish-export)
->
->      * [pvz](http://jspvz.com/download.htm)
->
->        字体工具见pan/oneConfig
->
->      * Windows-7-Games-For-Windows-8-and-10-Multilanguage-x86-x64
->
->        来源未知，见pan/Games
->
->      * steamCommunity
->
->        见上面的Steam栏
->
->      * Deltarune ch2汉化
->
->        [deltarune吧精品贴](https://tieba.baidu.com/p/7565071137)和pan/Games/deltarune
->
->      * HELLTAKER汉化2
->
->        来源未知，见pan/Games
->
->      * 空洞骑士大地图
->
->        pan/Games
->
->      * ……
+>       |Name|Note|
+>       |---|---|
+>       |[Genshin-wish-export](https://github.com/biuuu/genshin-wish-export)||
+>       |[pvz](http://jspvz.com/download.htm)|字体工具见pan/oneConfig|
+>       |Windows-7-Games-For-Windows-8-and-10-Multilanguage-x86-x64|来源未知，pan/Games|  
+>       |steamCommunity|见上面的Steam栏|
+>       |Deltarune ch2汉化|[deltarune吧精品贴](https://tieba.baidu.com/p7565071137)和pan/ Games/deltarune|
+>       |HELLTAKER汉化2|来源未知，见pan/Games|
+>       |空洞骑士大地图|pan/Games|
 >
 >    + Arknights Proj
 >
