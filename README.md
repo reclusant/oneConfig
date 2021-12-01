@@ -102,19 +102,20 @@
 >
 >      墙，目前未解
 >
->    + [VSCode](https://code.visualstudio.com/)
+>    * [VSCode](https://code.visualstudio.com/)
 >
->      * 换中文，拓展栏搜索language
->    * C#需要[.NETCore SDK](https://dotnet.microsoft.com/download)和C#、C#Extension拓展
->      * C/C++需要[MinGW-w64](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)和C/C++拓展
->        * Markdown见知乎教程[使用vscode开始Markdown写作之旅](https://zhuanlan.zhihu.com/p/56943330)
->        * html加open in browser拓展
->        * 【[数据删除](https://www.wisecleaner.com/wise-folder-hider-free.html)】
->        * ……
+>       * 换中文，拓展栏搜索language
+>
+>       * C#需要[.NETCore SDK](https://dotnet.microsoft.com/download)和C#、C#Extension拓展
+>       * C/C++需要[MinGW-w64](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)和C/C++拓展
+>       * Markdown见知乎教程[使用vscode开始Markdown写作之旅](https://zhuanlan.zhihu.com/p/56943330)
+>       * html加open in browser拓展
+>       * 【[数据删除](https://www.wisecleaner.com/wise-folder-hider-free.html)】
+>       * ……
 >
 >    可选：
 >
->   * ​FlashPlayer
+>   * FlashPlayer
 >
 >     [见这个知乎回答](https://www.zhihu.com/question/485233437/answer/2107596058)或者pan/oneConfig
 >
