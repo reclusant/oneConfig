@@ -35,7 +35,8 @@
 >   | Name | Note |
 >   | --- | --- |
 >   | [HYJiang](http://www.huochaipro.com/) | 皮肤[鳩羽つぐ.hyj](individ/鳩羽つぐ.hyj)，或pan/oneConfig |
->   | [搜狗输入法](https://pinyin.sogou.com/) |[QQ](https://im.qq.com/index)|
+>   | [QQ](https://im.qq.com/index)||
+>   | [搜狗输入法](https://pinyin.sogou.com/) ||
 >   | [WeChat](https://weixin.qq.com/)||
 >   | [Chrome](https://www.google.cn/chrome/)| 参考[win10上将chrome安装到D盘](https://blog.csdn.net/MoneStar/article/details/114168808)和[mklink命令](https://www.cnblogs.com/life-of-coding/p/10871831.html) |
 >   | [NeteaseCloudMusic](https://music.163.com/#/download)||
