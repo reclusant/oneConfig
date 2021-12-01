@@ -56,6 +56,8 @@
 >
 >    * [火绒](https://www.huorong.cn/)
 >
+>    * [GitHub Desktop](https://desktop.github.com/)
+>
 >    * [🖱️ Windows右键菜单管理ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)
 >
 >    * [Bandizip](https://cn.bandisoft.com/bandizip/)，或pan/oneConfig
@@ -103,47 +105,44 @@
 >    + [VSCode](https://code.visualstudio.com/)
 >
 >      * 换中文，拓展栏搜索language
->    
->      * C#需要[.NETCore SDK](https://dotnet.microsoft.com/download)和C#、C#Extension拓展
-> * C/C++需要[MinGW-w64](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)和C/C++拓展
->      * Markdown见知乎教程[使用vscode开始Markdown写作之旅](https://zhuanlan.zhihu.com/p/56943330)
->    * html加open in browser拓展
->      
->    + 【[数据删除](https://www.wisecleaner.com/wise-folder-hider-free.html)】
->    
->    + ……
+>    * C#需要[.NETCore SDK](https://dotnet.microsoft.com/download)和C#、C#Extension拓展
+>      * C/C++需要[MinGW-w64](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)和C/C++拓展
+>        * Markdown见知乎教程[使用vscode开始Markdown写作之旅](https://zhuanlan.zhihu.com/p/56943330)
+>        * html加open in browser拓展
+>        * 【[数据删除](https://www.wisecleaner.com/wise-folder-hider-free.html)】
+>        * ……
 >
 >    可选：
 >
->    * FlashPlayer
+>   * ​FlashPlayer
 >
->      [见这个知乎回答](https://www.zhihu.com/question/485233437/answer/2107596058)或者pan/oneConfig
+>     [见这个知乎回答](https://www.zhihu.com/question/485233437/answer/2107596058)或者pan/oneConfig
 >
->    * [Typecho](http://typecho.org/)
+>   * [Typecho](http://typecho.org/)
 >
->    * [Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
+>   * [Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
 >
->    * [DesignDolll](https://terawell.net/terawell/)
+>   * [DesignDolll](https://terawell.net/terawell/)
 >
->      墙，pan/oneConfig
+>     墙，pan/oneConfig
 >
->    * [Locale-Emulator](https://github.com/xupefei/Locale-Emulator)
+>   * [Locale-Emulator](https://github.com/xupefei/Locale-Emulator)
 >
->    * [Foxit Software](https://www.foxitsoftware.cn)
+>   * [Foxit Software](https://www.foxitsoftware.cn)
 >
->    * [OriginPro](https://my.originlab.com/forum/topic.asp?TOPIC_ID=22328)
+>   * [OriginPro](https://my.originlab.com/forum/topic.asp?TOPIC_ID=22328)
 >
->      crack见pan/oneConfig
+>     crack见pan/oneConfig
 >
->    * [Typora](https://www.typora.io/)
+>   * [Typora](https://www.typora.io/)
 >
->      近日开始收费，pan不保证可行，右转VSCode
+>     近日开始收费，pan不保证可行，右转VSCode
 >
->    * [VSCommunity](https://visualstudio.microsoft.com/zh-hant/vs/community/)
+>   * [VSCommunity](https://visualstudio.microsoft.com/zh-hant/vs/community/)
 >
->    * [FL Studio](https://flstudiochina.mairuan.com/)，pan&weiyun&aDrive，汉化版+crack见pan/oneConfig
+>   * [FL Studio](https://flstudiochina.mairuan.com/)，pan&weiyun&aDrive，汉化版+crack见pan/oneConfig
 >
->    * ……
+>   * ……
 >
 > 2. backup
 >
