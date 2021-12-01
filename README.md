@@ -54,7 +54,7 @@
 >   |[Unity](https://unity.cn/releases)||
 >   |【[数据删除](https://www.sockscap64.com/sstap-享受游戏-使用sstap/)】||
 >   |【[数据删除](https://github.com/qingshuisiyuan/electron-ssr-backup)】|pan/oneConfig，订阅同|
->   |[clash](https://github.com/Dreamacro/clash)|pan/oneConfig，订阅同|
+>   |[clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)|pan/oneConfig，订阅同|
 >   |[Potplayer](https://potplayer.daum.net/?lang=zh_CN)|墙，小众故无解；pan/oneConfig|
 >   |[WinSCP](https://winscp.net/eng/docs/lang:chs)||
 >   |[Steam](https://store.steampowered.com/)|社区墙见[steamcommunity](https://www.dogfight360.com/blog/686/)和pan/oneConfig|
