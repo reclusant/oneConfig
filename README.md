@@ -61,6 +61,7 @@
 >   |[WinSCP](https://winscp.net/eng/docs/lang:chs)||
 >   |[Steam](https://store.steampowered.com/)|社区墙见[steamcommunity](https://www.dogfight360.com/blog/686/)和pan/oneConfig|
 >   |[Telegram](https://telegram.org/)  or  [Telegram中文](https://www.teleglcn.com/)|墙，目前未解|
+>   |[notion](https://www.notion.so/)||
 >   |[VSCode](https://code.visualstudio.com/)|换中文，拓展栏搜索language|
 >   ||C#需要[.NETCore SDK](https://dotnet.microsoft.com/download)和C#、C#Extension拓展|
 >   ||C/C++需要[MinGW-w64](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)和C/C++拓展|
