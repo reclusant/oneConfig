@@ -70,8 +70,9 @@
 >   |【[数据删除](https://www.wisecleaner.com/wise-folder-hider-free.html)】||
 > 
 >    可选：
->   |Name|Note|
->   |---|---|
+> 
+>   | Name | Note |
+>   | --- | --- |
 >   |FlashPlayer|[见知乎回答](https://www.zhihu.com/question/485233437/answer/2107596058)或者pan/oneConfig|
 >   |[Typecho](http://typecho.org/)||
 >   |[Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)||
